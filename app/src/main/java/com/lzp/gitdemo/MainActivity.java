@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
         Log.i("log","8");
         Log.i("log","9");
         Log.i("log","10");
-        Log.i("log","init1");
+        Log.i("log","init2");
         Log.i("log","11");
     }
 }
