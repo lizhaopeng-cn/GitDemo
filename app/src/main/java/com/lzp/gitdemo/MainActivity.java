@@ -21,5 +21,6 @@ public class MainActivity extends Activity {
         Log.i("log","9");
         Log.i("log","10");
         Log.i("log","init");
+        Log.i("log","11");
     }
 }
