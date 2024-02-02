@@ -28,6 +28,6 @@ public class MainActivity extends Activity {
         Log.i("log","reset");
         Log.i("log","reset1");
         Log.i("log","reset2");
-        Log.i("log","reset3");
+        Log.i("log","reset3回退4");
     }
 }
