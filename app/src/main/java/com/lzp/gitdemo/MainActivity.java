@@ -30,5 +30,6 @@ public class MainActivity extends Activity {
         Log.i("log","reset2");
         Log.i("log","reset3");
         Log.i("log","reset4");
+        Log.i("log","reset5");
     }
 }
