@@ -33,5 +33,6 @@ public class MainActivity extends Activity {
         Log.i("log","reset5");
         Log.i("log","test");
         Log.i("log","cherry-pick-selected");
+        Log.i("log","update");
     }
 }
