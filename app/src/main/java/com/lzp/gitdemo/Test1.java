@@ -1,4 +1,4 @@
 package com.lzp.gitdemo;
 
-public class Test {
+public class Test1 {
 }
