@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-GitDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-GitDemo.iml" group="GitDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android.GitDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/Android.GitDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GitDemo.iml" filepath="$PROJECT_DIR$/GitDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GitDemo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GitDemo-app.iml" group="GitDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GitDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GitDemo.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GitDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GitDemo.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GitDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GitDemo.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GitDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GitDemo.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
