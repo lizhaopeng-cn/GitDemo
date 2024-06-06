@@ -1,0 +1,5 @@
+// commit
+git reset --soft HEAD^ 上一个版本
+git reset --hard 版本号 指定版本
+// push
+git push origin 分支名 –-force
