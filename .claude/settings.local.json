@@ -1,1 +1,13 @@
-{}
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push:*)",
+      "Bash(GIT_TRACE=1 git push origin dev)",
+      "Bash(GIT_TRACE=1 git status)",
+      "Bash(git remote:*)",
+      "Bash(git:*)",
+      "Bash(\"C:/Lzp/Program/Git/mingw64/libexec/git-core/git-push.exe\" origin:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
